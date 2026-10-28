@@ -1,0 +1,14 @@
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\bin\Debug\net10.0\GoingFurther.exe
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\bin\Debug\net10.0\GoingFurther.deps.json
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\bin\Debug\net10.0\GoingFurther.runtimeconfig.json
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\bin\Debug\net10.0\GoingFurther.dll
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\bin\Debug\net10.0\GoingFurther.pdb
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\obj\Debug\net10.0\GoingFurther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\obj\Debug\net10.0\GoingFurther.AssemblyInfoInputs.cache
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\obj\Debug\net10.0\GoingFurther.AssemblyInfo.cs
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\obj\Debug\net10.0\GoingFurther.csproj.CoreCompileInputs.cache
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\obj\Debug\net10.0\GoingFurther.dll
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\obj\Debug\net10.0\refint\GoingFurther.dll
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\obj\Debug\net10.0\GoingFurther.pdb
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\obj\Debug\net10.0\GoingFurther.genruntimeconfig.cache
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\GoingFurther\obj\Debug\net10.0\ref\GoingFurther.dll

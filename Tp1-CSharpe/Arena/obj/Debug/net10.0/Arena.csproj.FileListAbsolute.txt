@@ -1,0 +1,14 @@
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\bin\Debug\net10.0\Arena.exe
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\bin\Debug\net10.0\Arena.deps.json
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\bin\Debug\net10.0\Arena.runtimeconfig.json
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\bin\Debug\net10.0\Arena.dll
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\bin\Debug\net10.0\Arena.pdb
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\obj\Debug\net10.0\Arena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\obj\Debug\net10.0\Arena.AssemblyInfoInputs.cache
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\obj\Debug\net10.0\Arena.AssemblyInfo.cs
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\obj\Debug\net10.0\Arena.csproj.CoreCompileInputs.cache
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\obj\Debug\net10.0\Arena.dll
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\obj\Debug\net10.0\refint\Arena.dll
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\obj\Debug\net10.0\Arena.pdb
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\obj\Debug\net10.0\Arena.genruntimeconfig.cache
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\Arena\obj\Debug\net10.0\ref\Arena.dll

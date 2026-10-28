@@ -1,0 +1,14 @@
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\bin\Debug\net10.0\FirstProgram.exe
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\bin\Debug\net10.0\FirstProgram.deps.json
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\bin\Debug\net10.0\FirstProgram.runtimeconfig.json
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\bin\Debug\net10.0\FirstProgram.dll
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\bin\Debug\net10.0\FirstProgram.pdb
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\obj\Debug\net10.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\obj\Debug\net10.0\FirstProgram.AssemblyInfoInputs.cache
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\obj\Debug\net10.0\FirstProgram.AssemblyInfo.cs
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\obj\Debug\net10.0\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\obj\Debug\net10.0\FirstProgram.dll
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\obj\Debug\net10.0\refint\FirstProgram.dll
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\obj\Debug\net10.0\FirstProgram.pdb
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\obj\Debug\net10.0\FirstProgram.genruntimeconfig.cache
+C:\Users\pc dell\Documents\MTI\programmation-avancee-c-sharp-unity\Tp1-CSharpe\WarmUp\FirstProgram\obj\Debug\net10.0\ref\FirstProgram.dll
